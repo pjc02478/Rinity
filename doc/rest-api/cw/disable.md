@@ -8,7 +8,7 @@ Disable the method. All lines of the method will be commented and inserts `retur
 * __Response__
   * src : modified source code 
 
-Remakrs
+Remarks
 ----
 This api does not supports the method which using `ExpressionBody` syntax. 
 
