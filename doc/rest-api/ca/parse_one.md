@@ -10,8 +10,21 @@ Parse a single csharp script.
 
 Example
 ----
+__Request__
 ```json
 {
- "src" : ""
+ "src" : "class Foo { void Bar(){} }"
+}
+```
+__Response__
+```json
+{
+ "className" : "Foo",
+ "methods" : [
+  {
+   "name" : "Bar",
+   "returnType" : "void"
+  }
+ ]
 }
 ```
