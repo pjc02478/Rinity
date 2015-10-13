@@ -3,6 +3,7 @@ parse_one
 Parse a single csharp script.
 
 * __Request__
-  * src
+  * src : C# source to parse 
 * __Response__
-  * className
+  * className : identifier of the class
+  * methods
