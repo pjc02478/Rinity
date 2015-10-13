@@ -1,5 +1,6 @@
 rest-api-specifications
 ====
+In this directory, decribes the how to communicate data between `Rinity-Server` and `Rinity-Client`.
 
 Remarks
 ----
