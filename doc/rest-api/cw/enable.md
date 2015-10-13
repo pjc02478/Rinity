@@ -8,7 +8,7 @@ Enables the method which you disabled before.
 * __Response__
   * src : modified source code 
   
-Remakrs
+Remarks
 ----
 This api does not supports the method which using `ExpressionBody` syntax. 
 
