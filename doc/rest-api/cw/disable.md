@@ -7,7 +7,11 @@ Disable the method. All lines of the method will be commented and inserts `retur
   * methodName : method name which you wants to disable
 * __Response__
   * src : modified source code 
-  
+
+Remakrs
+----
+This api does not supports the method which using `ExpressionBody` syntax. 
+
 Example
 ----
 __Request__
