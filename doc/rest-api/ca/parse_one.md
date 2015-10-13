@@ -7,3 +7,11 @@ Parse a single csharp script.
 * __Response__
   * className : identifier of the class
   * methods
+
+Example
+----
+```json
+{
+ "src" : ""
+}
+```
